@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bacterial leaf blight</folder>
+	<filename>Bacterial_leaf_blight_57.jpg</filename>
+	<path>C:\Users\Deepank\Downloads\rice_leaf_diseases\Bacterial leaf blight\Bacterial_leaf_blight_57.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3081</width>
+		<height>897</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bacterial_leaf_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>496</xmin>
+			<ymin>369</ymin>
+			<xmax>1594</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

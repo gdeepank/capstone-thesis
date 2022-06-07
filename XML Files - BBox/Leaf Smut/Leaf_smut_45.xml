@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Leaf smut</folder>
+	<filename>Leaf_smut_45.jpg</filename>
+	<path>C:\Users\aaver\Documents\Capstone\rice_leaf_diseases\Leaf smut\Leaf_smut_45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>537</width>
+		<height>216</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leaf_smut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>52</ymin>
+			<xmax>306</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

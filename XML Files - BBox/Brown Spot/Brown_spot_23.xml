@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Brown spot</folder>
+	<filename>Brown_spot_23.jpg</filename>
+	<path>D:\shivani\college\capstone\rice_leaf_diseases\Brown spot\Brown_spot_23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3081</width>
+		<height>897</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brown_spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>939</xmin>
+			<ymin>350</ymin>
+			<xmax>2668</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>

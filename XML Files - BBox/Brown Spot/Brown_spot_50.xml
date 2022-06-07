@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Brown spot</folder>
+	<filename>Brown_spot_50.jpg</filename>
+	<path>C:\Users\Deepank\Downloads\rice_leaf_diseases\Brown spot\Brown_spot_50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2485</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brown_spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>783</xmin>
+			<ymin>121</ymin>
+			<xmax>1678</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

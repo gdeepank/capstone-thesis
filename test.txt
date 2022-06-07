@@ -1,0 +1,240 @@
+./Bacterial leaf blight/Bacterial_leaf_blight_1.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_10.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_11.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_12.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_13.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_14.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_15.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_16.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_17.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_18.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_19.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_2.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_20.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_21.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_22.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_23.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_24.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_25.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_26.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_27.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_28.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_29.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_3.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_30.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_31.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_32.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_33.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_34.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_35.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_36.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_37.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_38.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_39.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_4.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_40.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_41.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_42.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_43.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_44.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_45.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_46.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_47.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_48.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_49.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_5.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_50.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_51.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_52.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_53.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_54.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_55.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_56.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_57.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_58.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_59.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_6.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_60.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_7.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_8.jpg
+./Bacterial leaf blight/Bacterial_leaf_blight_9.jpg
+./Brown spot/Brown_spot_1.jpg
+./Brown spot/Brown_spot_10.jpg
+./Brown spot/Brown_spot_11.jpg
+./Brown spot/Brown_spot_12.jpg
+./Brown spot/Brown_spot_13.jpg
+./Brown spot/Brown_spot_14.jpg
+./Brown spot/Brown_spot_15.jpg
+./Brown spot/Brown_spot_16.jpg
+./Brown spot/Brown_spot_17.jpg
+./Brown spot/Brown_spot_18.jpg
+./Brown spot/Brown_spot_19.jpg
+./Brown spot/Brown_spot_2.jpg
+./Brown spot/Brown_spot_20.jpg
+./Brown spot/Brown_spot_21.jpg
+./Brown spot/Brown_spot_22.jpg
+./Brown spot/Brown_spot_23.jpg
+./Brown spot/Brown_spot_24.jpg
+./Brown spot/Brown_spot_25.jpg
+./Brown spot/Brown_spot_26.jpg
+./Brown spot/Brown_spot_27.jpg
+./Brown spot/Brown_spot_28.jpg
+./Brown spot/Brown_spot_29.jpg
+./Brown spot/Brown_spot_3.jpg
+./Brown spot/Brown_spot_30.jpg
+./Brown spot/Brown_spot_31.jpg
+./Brown spot/Brown_spot_32.jpg
+./Brown spot/Brown_spot_33.jpg
+./Brown spot/Brown_spot_34.jpg
+./Brown spot/Brown_spot_35.jpg
+./Brown spot/Brown_spot_36.jpg
+./Brown spot/Brown_spot_37.jpg
+./Brown spot/Brown_spot_38.jpg
+./Brown spot/Brown_spot_39.jpg
+./Brown spot/Brown_spot_4.jpg
+./Brown spot/Brown_spot_40.jpg
+./Brown spot/Brown_spot_41.jpg
+./Brown spot/Brown_spot_42.jpg
+./Brown spot/Brown_spot_43.jpg
+./Brown spot/Brown_spot_44.jpg
+./Brown spot/Brown_spot_45.jpg
+./Brown spot/Brown_spot_46.jpg
+./Brown spot/Brown_spot_47.jpg
+./Brown spot/Brown_spot_48.jpg
+./Brown spot/Brown_spot_49.jpg
+./Brown spot/Brown_spot_5.jpg
+./Brown spot/Brown_spot_50.jpg
+./Brown spot/Brown_spot_51.jpg
+./Brown spot/Brown_spot_52.jpg
+./Brown spot/Brown_spot_53.jpg
+./Brown spot/Brown_spot_54.jpg
+./Brown spot/Brown_spot_55.jpg
+./Brown spot/Brown_spot_56.jpg
+./Brown spot/Brown_spot_57.jpg
+./Brown spot/Brown_spot_58.jpg
+./Brown spot/Brown_spot_59.jpg
+./Brown spot/Brown_spot_6.jpg
+./Brown spot/Brown_spot_60.jpg
+./Brown spot/Brown_spot_7.jpg
+./Brown spot/Brown_spot_8.jpg
+./Brown spot/Brown_spot_9.jpg
+./Healthy leaf/Healthy_leaf_1.jpg
+./Healthy leaf/Healthy_leaf_10.jpg
+./Healthy leaf/Healthy_leaf_11.jpg
+./Healthy leaf/Healthy_leaf_12.jpg
+./Healthy leaf/Healthy_leaf_13.jpg
+./Healthy leaf/Healthy_leaf_14.jpg
+./Healthy leaf/Healthy_leaf_15.jpg
+./Healthy leaf/Healthy_leaf_16.jpg
+./Healthy leaf/Healthy_leaf_17.jpg
+./Healthy leaf/Healthy_leaf_18.jpg
+./Healthy leaf/Healthy_leaf_19.jpg
+./Healthy leaf/Healthy_leaf_2.jpg
+./Healthy leaf/Healthy_leaf_20.jpg
+./Healthy leaf/Healthy_leaf_21.jpg
+./Healthy leaf/Healthy_leaf_22.jpg
+./Healthy leaf/Healthy_leaf_23.jpg
+./Healthy leaf/Healthy_leaf_24.jpg
+./Healthy leaf/Healthy_leaf_25.jpg
+./Healthy leaf/Healthy_leaf_26.jpg
+./Healthy leaf/Healthy_leaf_27.jpg
+./Healthy leaf/Healthy_leaf_28.jpg
+./Healthy leaf/Healthy_leaf_29.jpg
+./Healthy leaf/Healthy_leaf_3.jpg
+./Healthy leaf/Healthy_leaf_30.jpg
+./Healthy leaf/Healthy_leaf_31.jpg
+./Healthy leaf/Healthy_leaf_32.jpg
+./Healthy leaf/Healthy_leaf_33.jpg
+./Healthy leaf/Healthy_leaf_34.jpg
+./Healthy leaf/Healthy_leaf_35.jpg
+./Healthy leaf/Healthy_leaf_36.jpg
+./Healthy leaf/Healthy_leaf_37.jpg
+./Healthy leaf/Healthy_leaf_38.jpg
+./Healthy leaf/Healthy_leaf_39.jpg
+./Healthy leaf/Healthy_leaf_4.jpg
+./Healthy leaf/Healthy_leaf_40.jpg
+./Healthy leaf/Healthy_leaf_41.jpg
+./Healthy leaf/Healthy_leaf_42.jpg
+./Healthy leaf/Healthy_leaf_43.jpg
+./Healthy leaf/Healthy_leaf_44.jpg
+./Healthy leaf/Healthy_leaf_45.jpg
+./Healthy leaf/Healthy_leaf_46.jpg
+./Healthy leaf/Healthy_leaf_47.jpg
+./Healthy leaf/Healthy_leaf_48.jpg
+./Healthy leaf/Healthy_leaf_49.jpg
+./Healthy leaf/Healthy_leaf_5.jpg
+./Healthy leaf/Healthy_leaf_50.jpg
+./Healthy leaf/Healthy_leaf_51.jpg
+./Healthy leaf/Healthy_leaf_52.jpg
+./Healthy leaf/Healthy_leaf_53.jpg
+./Healthy leaf/Healthy_leaf_54.jpg
+./Healthy leaf/Healthy_leaf_55.jpg
+./Healthy leaf/Healthy_leaf_56.jpg
+./Healthy leaf/Healthy_leaf_57.jpg
+./Healthy leaf/Healthy_leaf_58.jpg
+./Healthy leaf/Healthy_leaf_59.jpg
+./Healthy leaf/Healthy_leaf_6.jpg
+./Healthy leaf/Healthy_leaf_60.jpg
+./Healthy leaf/Healthy_leaf_7.jpg
+./Healthy leaf/Healthy_leaf_8.jpg
+./Healthy leaf/Healthy_leaf_9.jpg
+./Leaf smut/Leaf_smut_1.jpg
+./Leaf smut/Leaf_smut_10.jpg
+./Leaf smut/Leaf_smut_11.jpg
+./Leaf smut/Leaf_smut_12.jpg
+./Leaf smut/Leaf_smut_13.jpg
+./Leaf smut/Leaf_smut_14.jpg
+./Leaf smut/Leaf_smut_15.jpg
+./Leaf smut/Leaf_smut_16.jpg
+./Leaf smut/Leaf_smut_17.jpg
+./Leaf smut/Leaf_smut_18.jpg
+./Leaf smut/Leaf_smut_19.jpg
+./Leaf smut/Leaf_smut_2.jpg
+./Leaf smut/Leaf_smut_20.jpg
+./Leaf smut/Leaf_smut_21.jpg
+./Leaf smut/Leaf_smut_22.jpg
+./Leaf smut/Leaf_smut_23.jpg
+./Leaf smut/Leaf_smut_24.jpg
+./Leaf smut/Leaf_smut_25.jpg
+./Leaf smut/Leaf_smut_26.jpg
+./Leaf smut/Leaf_smut_27.jpg
+./Leaf smut/Leaf_smut_28.jpg
+./Leaf smut/Leaf_smut_29.jpg
+./Leaf smut/Leaf_smut_3.jpg
+./Leaf smut/Leaf_smut_30.jpg
+./Leaf smut/Leaf_smut_31.jpg
+./Leaf smut/Leaf_smut_32.jpg
+./Leaf smut/Leaf_smut_33.jpg
+./Leaf smut/Leaf_smut_34.jpg
+./Leaf smut/Leaf_smut_35.jpg
+./Leaf smut/Leaf_smut_36.jpg
+./Leaf smut/Leaf_smut_37.jpg
+./Leaf smut/Leaf_smut_38.jpg
+./Leaf smut/Leaf_smut_39.jpg
+./Leaf smut/Leaf_smut_4.jpg
+./Leaf smut/Leaf_smut_40.jpg
+./Leaf smut/Leaf_smut_41.jpg
+./Leaf smut/Leaf_smut_42.jpg
+./Leaf smut/Leaf_smut_43.jpg
+./Leaf smut/Leaf_smut_44.jpg
+./Leaf smut/Leaf_smut_45.jpg
+./Leaf smut/Leaf_smut_46.jpg
+./Leaf smut/Leaf_smut_47.jpg
+./Leaf smut/Leaf_smut_48.jpg
+./Leaf smut/Leaf_smut_49.jpg
+./Leaf smut/Leaf_smut_5.jpg
+./Leaf smut/Leaf_smut_50.jpg
+./Leaf smut/Leaf_smut_51.jpg
+./Leaf smut/Leaf_smut_52.jpg
+./Leaf smut/Leaf_smut_53.jpg
+./Leaf smut/Leaf_smut_54.jpg
+./Leaf smut/Leaf_smut_55.jpg
+./Leaf smut/Leaf_smut_56.jpg
+./Leaf smut/Leaf_smut_57.jpg
+./Leaf smut/Leaf_smut_58.jpg
+./Leaf smut/Leaf_smut_59.jpg
+./Leaf smut/Leaf_smut_6.jpg
+./Leaf smut/Leaf_smut_60.jpg
+./Leaf smut/Leaf_smut_7.jpg
+./Leaf smut/Leaf_smut_8.jpg
+./Leaf smut/Leaf_smut_9.jpg
