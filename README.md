@@ -33,7 +33,7 @@ The main objectives of this project was to classify and detect various rice crop
 3. test.txt file contains all file names present in the directory with a .jpg extension.
 4. Now enter ctrl+f and remove main directory details, for excel to pull images into it we need to give details of subdirectories and filenames starting with a " ./ " so we replace first backslash \ with ./ and the second one with /.
 5. Open a new excel workbook and go to Data tab > Get & Transform Data group > From Text/CSV. Click Load to import all the data.
-6. Save the excel notebook (as csv is optional). Dataset is now ready to be used for data sciece tasks. This is data.csv.
+6. Save the excel notebook (as csv is optional). Dataset is now ready to be used for data sciece tasks. This is data.xlsx.
 7. Use the test.sh bash script to convert the jpg images to dicom formatted images. This process is carried out on a linux terminal.
 8. Place the bash script in each subdirectories and run it accordingly. Make a new directory using 'mkdir' command.
 9. Command to move all dcm files to the new created directory:-- mv *.dcm new-directory-name. 
