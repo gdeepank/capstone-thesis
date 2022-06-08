@@ -4,7 +4,7 @@
 
 ### *Synopsis*
 
-The main objectives of this project was to classify and detect various rice crop diseases. We implemented all ML pipelines from Data Collection to Model Deployment. The approach was to simulate medical imaging as an image segmentation technique using the DICOM image format. Deep Neural Network models such as VGG16, MobileNet, Xception and ResNet50 were used for model training. To validate the model performance, a simple version of GradCAM was created. For detection of diseases, bounding box regression was performed to locate the disease symptoms (an IoU score of 0.5 was obtained). The best performing model (using accuracy and IoU as criteria) was deployed using Flask and hosted as a web application.
+The main objectives of this project was to classify and detect various rice crop diseases such as Leaf Smut, Brown Spot, and Bacterial Leaf Blight. We implemented all ML pipelines from Data Collection to Model Deployment. The approach was to simulate medical imaging as an image segmentation technique using the DICOM image format. Deep Neural Network models such as VGG16, MobileNet, Xception and ResNet50 were used for model training. To validate the model performance, a simple version of GradCAM was created. For detection of diseases, bounding box regression was performed to locate the disease symptoms (an IoU score of 0.5 was obtained). The best performing model (using accuracy and IoU as criteria) was deployed using Flask and hosted as a web application where you can analyse custom diseased images on demand. This application also gives methods for further prevention and methods to cure the detected disease of the leaf image uploaded.
 
 ### *Key Concepts*
 
@@ -46,7 +46,7 @@ The main objectives of this project was to classify and detect various rice crop
 16. Run gradcam.ipynb file to validate the model's performance in performing classification. This is implemented to check if the model is looking at the right regions or areas of interest in an image.
 17. Finlly run bboxregr.ipynb file to perform localization (detection) on an image. Bounding box regression algorithm is utilised here. The localization model is saved in newmodel.h5 file. The two H5 files are used in model deployment.
 18. For Flask deployment procedure:-
-    - Navigate to the main folder, containing all the subfolders from terminal.
+    - Navigate to the main Flask folder, containing all the subfolders from terminal.
     - Command to run the server:-- python app_keras.py
     - Open a web browser, and navigate to http://localhost:5000/
 
